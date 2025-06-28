@@ -1,5 +1,5 @@
-  ## Hi!👋 I'm Suimee
-  # Undergrad CS student 
+  # Hi!👋 I'm Suimee
+  ## Undergrad CS student 
 
 - 📫 How to reach me: sumaya.suimee@gmail.com
                                                               
