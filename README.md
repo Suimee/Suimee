@@ -5,7 +5,7 @@
                                                               
                                                               
   **Connect with me**:
-  [![LinkedIn](https://img.shields.io/badge/-Sumaya_Suimee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-suimee-415050242/)
+- **in/sumaya-suimee-415050242**  
 
 
 
