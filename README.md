@@ -11,6 +11,8 @@
   <a href="https://www.linkedin.com/in/sumaya-suimee-415050242/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
+</p>
+  
   ## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
