@@ -6,8 +6,7 @@
                                                               
   Connect with me:
   
-- **in/sumaya-suimee-415050242**  
-   
+https://www.linkedin.com/in/sumaya-suimee-415050242/
 
 
 
