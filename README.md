@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Suimee</h1>
-<h2 align="center">Aspiring Full-Stack Developer </p>
+<h2 align="center">Aspiring Full-Stack Developer </h2>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Suimee&label=Profile%20views&color=0e75b6&style=flat" alt="Suimee" />
 </p>
 - 📫 Reach me **sumaya.suimee@gmail.com**
